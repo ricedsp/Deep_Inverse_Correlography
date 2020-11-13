@@ -29,6 +29,9 @@ To train your own network:
 1. Run "train_network.py" to train a network.
 
 Please direct questions to cmetzler@stanford.edu.
+
+For those interested, raw speckle measurements are available at https://stanford.box.com/s/lta3jxsgrj49uio9v5qgko1betj8z77w.
+
 ## Acknowledgements
 We used the BSD-500 dataset for training [A]. Our U-net implementation is based of off that provided in Cycle-GAN [B].
 
